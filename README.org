@@ -1,0 +1,9 @@
+* trivial-cltl2
+
+Exports symbols from implementation-specific packages.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/Zulu-Inuoe/trivial-cltl2.git |
+| commit  | 2ada872                                             |
+| systems | trivial-cltl2                                       |
+|---------+-----------------------------------------------------|
